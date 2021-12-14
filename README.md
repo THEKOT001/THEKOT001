@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @THEKOT001
 - 👀 I’m interested in not diyng 
-- 🌱 I’m currently learning ,GolangUnity, C#, Java, C++
-- 💞️ I’m looking to collaborate on anything and doing nothing  
+- 🌱 I’m currently learning ,Golang, Unity, C#, Java, C++  
 - 📫 How to reach me Here and every where else you cand find 
 
 
